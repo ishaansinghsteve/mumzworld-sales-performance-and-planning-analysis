@@ -1,4 +1,5 @@
 Mumzworld Business Performance & Planning
+
 Prepared By: Ishaan Singh 
 
 Project Overview:
@@ -7,10 +8,10 @@ Analyzed Mumzworld’s 2024 sales performance across KSA and UAE markets using E
 
 Project Components:
 
-•	Excel Dataset: Raw sales, cost, order, and category-level data.
-•	Power BI Dashboard: Interactive market and category-level analytics.
-•	Performance & Planning Report: Detailed analysis with strategic recommendations.
-•	Case Summary: Business problem, proposed role and scope.
+1.  Excel Dataset: Raw sales, cost, order, and category-level data.
+2.  Power BI Dashboard: Interactive market and category-level analytics.
+3.  Performance & Planning Report: Detailed analysis with strategic recommendations.
+4. 	Case Summary: Business problem, proposed role and scope.
 
 Tools Used:
 Power BI | Microsoft Excel | Data Analysis | Data Visualization / Dashboarding
