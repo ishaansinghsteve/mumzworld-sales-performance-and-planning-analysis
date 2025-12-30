@@ -14,6 +14,7 @@ Project Components:
 4. 	Case Summary: Business problem, proposed role and scope.
 
 Tools Used:
+
 Power BI | Microsoft Excel | Data Analysis | Data Visualization / Dashboarding
 
 How to Explore:
