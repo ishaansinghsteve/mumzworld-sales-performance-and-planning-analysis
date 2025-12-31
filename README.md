@@ -11,8 +11,8 @@ Project Components:
 1.  Excel Dataset: Raw sales, cost, order, and category-level data.
 2.  Power BI Dashboard: Interactive market and category-level analytics.
 3.  Performance & Planning Report: Detailed analysis with strategic recommendations.
-4. 	Case Summary: Business problem, proposed role and scope.
-5. 	Dashboard Screenshot Folder: Screenshots of both dashboards.
+4.  Case Summary: Business problem, proposed role and scope.
+5.  Dashboard Screenshots Folder: Screenshots of both dashboards.
 
 Tools Used:
 
