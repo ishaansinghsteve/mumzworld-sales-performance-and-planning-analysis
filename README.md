@@ -12,15 +12,20 @@ Project Components:
 2.  Power BI Dashboard: Interactive market and category-level analytics.
 3.  Performance & Planning Report: Detailed analysis with strategic recommendations.
 4. 	Case Summary: Business problem, proposed role and scope.
+5. 	Dashboard Screenshot Folder: Screenshots of both dashboards.
 
 Tools Used:
 
 Power BI | Microsoft Excel | Data Analysis | Data Visualization / Dashboarding
 
 How to Explore:
-1.	Open the Power BI Dashboard for interactive insights.
-2.	Refer to the Excel dataset for raw data.
-3.	Read the Report for detailed analysis and recommendations.
-4.	Check the Case Summary for business context, proposed role and scope.
+
+1.  Check the Case Summary for business context, proposed role and scope.
+2.  Refer to the Excel dataset for raw data.
+3.  View the screenshots to get a glimpse of the dashboards.
+4.	Open the Power BI Dashboard for interactive insights.
+5.	Read the Report for detailed analysis and recommendations.
+   
+    
 
 Power BI Dashboard Link: https://drive.google.com/file/d/1lD5QV2DEZvgXFHhqrU3A1XY1PVaTxLrS/view?usp=sharing
